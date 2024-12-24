@@ -27,6 +27,7 @@
 
 ## 📊 GitHub Stats
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneak100&show_icons=true&theme=radical)
+
 **I'm new to GitHub! I've only ever made an account for USACO in HS and never used it since then :P**
 ---
 
