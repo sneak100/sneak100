@@ -25,10 +25,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Private Account for [USACO Training](https://usaco.guide/). Never used since)
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneak100&show_icons=true&theme=radical)
 
-**I'm new to GitHub! I've only ever made an account for USACO in HS and never used it since then :P**
+
 ---
 
 ## 📫 Let's Connect
