@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Patrick! 👋
 
-<!--
-**sneak100/sneak100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Artificial Intelligence & Cognitive Sciences**  
+🎓 Double major in Psychology & Mathematics | Aspiring Caltech CNS Researcher  
+💻 Developer | Concert Choir/Voice Student | Chess Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on: [CLASSIFIED]
+
+- 🧠 ENFJ-A
+- 🏡 Real Estate Sales DRE#:02220433 carrying on my Thai Family's Legacy in Property/Community Development 
+- 🎯 Preparing for **[Caltech CNS Program](https://www.bbe.caltech.edu/academics/cns)** through rigorous physics self-study and AI research aspirations.
+- 🎵 Learning **music theory and sight-singing** through Brett Manning's *Singing Success*. Why not be in [Caltech Glee Club](https://pva.caltech.edu/music/gleeclub)
+- ♟️ Elementary School Coach and Regional Project Manager turned **CPO at Day & Knight Chess Club**, now a proud Board Chairman.
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages**: CASIO Basic, Java, Python, JavaScript, C++
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn
+- **Web Development**: HTML, CSS, React, Node.js
+- **Other Tools**: Git, Linux, Learning Figma
+
+---
+
+## 📊 GitHub Stats
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneak100&show_icons=true&theme=radical)
+**I'm new to GitHub! I've only ever made an account for USACO in HS and never used it since then :P**
+---
+
+## 📫 Let's Connect
+- Discord: [pat_pat.](https://discordapp.com/users/359692670479761408)
+- LinkedIn: [Patrick Lerdsuwanrut](https://www.linkedin.com/in/patlerds/)
+- Email: [patlerds@gmail.com](patlerds@gmail.com)
